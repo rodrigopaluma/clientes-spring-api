@@ -2,9 +2,10 @@ package io.github.rodrigopaluma.clientes.model.entity;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
+import java.time.LocalDate;
 
 @Entity
-public class Servico {
+public class ServicoPrestado {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -19,4 +20,19 @@ public class Servico {
 
     @Column
     private BigDecimal valor;
+
+    @Column
+    private LocalDate data;
+
+    public void setDescricao(String descricao) {
+    }
+
+    public void setData(LocalDate data) {
+    }
+
+    public void setCliente(Cliente cliente) {
+    }
+
+    public void setValor(BigDecimal converter) {
+    }
 }

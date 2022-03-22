@@ -8,12 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="clientes" />
+        <module name="clientes-estudo" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="clientes" options="-parameters" />
+      <module name="clientes-estudo" options="-parameters" />
     </option>
   </component>
 </project>
