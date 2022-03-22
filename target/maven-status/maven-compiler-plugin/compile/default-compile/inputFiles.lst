@@ -1,0 +1,9 @@
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/model/repository/ServicoRepository.java
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/rest/exception/ApiErrors.java
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/ClientesApplication.java
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/rest/ClienteController.java
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/model/repository/ClienteRepository.java
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/rest/ApplicationControllerAdvice.java
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/config/InternacionalizationConfig.java
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/model/entity/Cliente.java
+/home/rodrigopaluma/Área de Trabalho/Projetos/clientes-estudo/src/main/java/io/github/rodrigopaluma/clientes/model/entity/Servico.java
