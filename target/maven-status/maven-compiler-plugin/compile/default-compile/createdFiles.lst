@@ -1,10 +1,13 @@
+io/github/rodrigopaluma/clientes/model/entity/ServicoPrestado.class
 io/github/rodrigopaluma/clientes/rest/exception/ApiErrors.class
 io/github/rodrigopaluma/clientes/model/repository/ClienteRepository.class
 io/github/rodrigopaluma/clientes/config/InternacionalizationConfig.class
 io/github/rodrigopaluma/clientes/ClientesApplication.class
-io/github/rodrigopaluma/clientes/rest/ClienteController.class
-io/github/rodrigopaluma/clientes/model/repository/ServicoRepository.class
-io/github/rodrigopaluma/clientes/model/entity/Servico.class
+io/github/rodrigopaluma/clientes/rest/dto/ServicoPrestadoDTO.class
 io/github/rodrigopaluma/clientes/model/entity/Cliente.class
 io/github/rodrigopaluma/clientes/model/entity/Cliente$ClienteBuilder.class
+io/github/rodrigopaluma/clientes/rest/ServicoPrestadoController.class
 io/github/rodrigopaluma/clientes/rest/ApplicationControllerAdvice.class
+io/github/rodrigopaluma/clientes/rest/ClienteController.class
+io/github/rodrigopaluma/clientes/model/repository/ServicoPrestadoRepository.class
+io/github/rodrigopaluma/clientes/util/BigDecimalConverter.class
